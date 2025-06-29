@@ -1,4 +1,4 @@
-package com.example.crud_matricula.demo.entities;
+package com.example.crud_matricula.demo.entities.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

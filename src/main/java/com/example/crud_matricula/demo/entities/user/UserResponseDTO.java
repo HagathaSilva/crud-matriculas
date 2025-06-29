@@ -1,4 +1,4 @@
-package com.example.crud_matricula.demo.entities;
+package com.example.crud_matricula.demo.entities.user;
 
 public record UserResponseDTO(Long id, String name, String cpf, String email) {
     public UserResponseDTO(User user) {
